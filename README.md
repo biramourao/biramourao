@@ -1,5 +1,6 @@
 ## Olá, sou Ubiratan Leitão Mourão
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biramourao&show_icons=true&bg_color=FFF&text_color=000&title_color=14274e&icon_color=394867)
+
+<img height='172' src='https://github-readme-stats.vercel.app/api?username=biramourao&show_icons=true&theme=dark'>  <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=biramourao&layout=compact&theme=dark'> 
 
 ### Bacharel em Sistemas de Informação
 
